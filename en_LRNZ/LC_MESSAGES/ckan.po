@@ -1030,7 +1030,7 @@ msgstr "No recipient email address available!"
 
 #: ckan/lib/mailer.py:127 ckan/templates/home/snippets/stats.html:17
 msgid "organization"
-msgstr ""
+msgstr "collection"
 
 #: ckan/lib/mailer.py:128 ckan/templates/home/snippets/stats.html:23
 msgid "group"

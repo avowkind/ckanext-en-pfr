@@ -17,5 +17,5 @@ See CKAN's [i18n](http://docs.ckan.org/en/ckan-2.6.1/contributing/i18n.html) doc
 To compile use the following command
 
 ```
-pybable compile -f -i ckan.po -o ckan.mo
+pybabel compile -f -i ckan.po -o ckan.mo
 ```
