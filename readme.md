@@ -1,5 +1,5 @@
 ## ckanext-en-nz
-This repository contains the translation and modifications of the English Language for web sites related to Landcare Research for CKAN.
+This repository contains the translation and modifications of the English Language for web sites related to Plant and Food Research for CKAN.
 
 Its primary function is to rename organization to collection.
 
